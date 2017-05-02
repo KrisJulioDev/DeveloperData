@@ -21,7 +21,7 @@
       "technologies": [
         {
           "name": "Objective C",
-          "number_of_years": 4
+          "number_of_years": 5
         },
         {
           "name": "Swift 2.x, 3.x",
@@ -30,11 +30,7 @@
         {
           "name": "C#",
           "number_of_years": 3
-        },
-        {
-          "name": "NodeJS",
-          "number_of_years": "3 months"
-        },
+        }, 
         {
           "name": "ActionScript 2.x, 3.x",
           "number_of_years": "2"
@@ -239,7 +235,7 @@
           "role": "Lead Developer",
           "startDate": "2016",
           "endDate": "Present",
-          "technologies": "NodeJS, Parse Cloud Code, heroku"
+          "technologies": "NodeJS, Parse Cloud Code, heroku, Customer.io, OneSignal"
         }
       ]
     },
@@ -330,7 +326,7 @@
       "company": "TADA Asianic Inc.",
       "position": "Flash Game Developer",
       "startDate": "April 2011",
-      "endDate": "Dec 2013",
+      "endDate": "Dec 2012",
       "summary": "Developed casino games using Adobe flash (Actionscript 2.x). Handled the team working on SlotMachines with complicated features similar to the real casino games with remote configuration from the remote server. Also helped the team working on BlackJack, Baccarat etc.",
       "highlights": [
         "TortoiseSVN",
