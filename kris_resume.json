@@ -1,0 +1,378 @@
+{
+  "basics": {
+    "name": "Khristoffer Julio",
+    "label": "iOS Developer",
+    "picture": "https://www.dropbox.com/s/r2m3bwuvcjopxfq/photo.png?dl=0",
+    "email": "khristoffer.julio@flightdigitalmedia.com",
+    "phone": "+639985386947"
+  },
+  "education": [
+    {
+      "institution": "AMA Computer College Batangas",
+      "course": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2006",
+      "endDate": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "technologies": [
+        {
+          "name": "Objective C",
+          "number_of_years": 4
+        },
+        {
+          "name": "Swift 2.x, 3.x",
+          "number_of_years": 2
+        },
+        {
+          "name": "C#",
+          "number_of_years": 3
+        },
+        {
+          "name": "NodeJS",
+          "number_of_years": "3 months"
+        },
+        {
+          "name": "ActionScript 2.x, 3.x",
+          "number_of_years": "2"
+        }
+      ]
+    },
+    {
+      "category": "Technologies",
+      "technologies": [
+        {
+          "name": "Unity3D",
+          "number_of_years": 4
+        },
+        {
+          "name": "Cocos2d",
+          "number_of_years": 3
+        },
+        {
+          "name": "Vuforia AR",
+          "number_of_years": 1
+        }
+      ]
+    },
+    {
+      "category": "Development Frameworks",
+      "technologies": [
+        {
+          "name": "Cocos2D",
+          "number_of_years": 3
+        },
+        {
+          "name": "RxSwift",
+          "number_of_years": 1
+        },
+        {
+          "name": "Core Animation",
+          "number_of_years": 3
+        }, 
+        {
+          "name": "A/V foundation",
+          "number_of_years": 3
+        }, 
+        {
+          "name": "Alamofire",
+          "number_of_years": 3
+        },
+        {
+          "name": "Cocos2D",
+          "number_of_years": 3
+        },
+        {
+          "name": "ReactNative",
+          "number_of_years": 1
+        },
+        {
+          "name": "Facebook SDK",
+          "number_of_years": 4
+        },
+        {
+          "name": "Google SDK",
+          "number_of_years": 3
+        }
+      ]
+    },
+    {
+      "category": "Databases",
+      "technologies": [
+        {
+          "name": "Core Data",
+          "number_of_years": 2
+        },
+        {
+          "name": "Firebase",
+          "number_of_years": 1
+        },
+        {
+          "name": "Parse",
+          "number_of_years": 1.5
+        },
+        {
+          "name": "CouchDB",
+          "number_of_years": 1
+        },
+        {
+          "name": "SQLite",
+          "number_of_years": 4
+        },
+        {
+          "name": "Realm",
+          "number_of_years": 3
+        }
+      ]
+    }, 
+	{
+      "category": "Version Control",
+      "technologies": [
+        {
+          "name": "Git",
+          "number_of_years": 4
+        },
+        {
+          "name": "Tortoise SVN",
+          "number_of_years": 1
+        }
+      ]
+    },
+    {
+      "category": "Operating System",
+      "technologies": [
+        {
+          "name": "MAC OSX",
+          "number_of_years": 4
+        },
+        {
+          "name": "Windows PC",
+          "number_of_years": 5
+        }
+      ]
+    },
+    {
+      "category": "Web Services",
+      "technologies": [
+        {
+          "name": "Amazon Web Services",
+          "number_of_years": 1
+        } 
+      ]
+    },
+    {
+      "category": "Integrated Development Environment",
+      "technologies": [
+        {
+          "name": "Unity3D",
+          "number_of_years": 3
+        },
+        {
+          "name": "Xcode",
+          "number_of_years": 5
+        },
+        {
+          "name": "Adobe Flash",
+          "number_of_years": 2
+        },
+        {
+          "name": "Android Studio",
+          "number_of_years": 1
+        }
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Flight Digital Media",
+      "position": "iOS Developer",
+      "startDate": "December 2015",
+      "endDate": "Present",
+      "summary": "Developed and handled multiple projects. Job also includes supervising junior developers, maintains and improve existing objective-c and swift codebases. Also help to developed new technology features like Augmented reality for photobomb, custom animations, custom UI. Also works on different MBaas platform like Parse, Firebase and Parse-Heroku. The job is not limited to only iOS, I've also worked on Parse Cloud code programming with the use of NodeJS for backend.",
+      "highlights": ["Swift 2.x, 3.x, Parse, Parse Cloud Code, Firebase, Mixpanel, OneSignal, Customer.io, MVVM, RxSwift"],
+      "projects": [
+        {
+          "name": "PowerTeam iOS",
+          "description": "Team Management app that uses Parse database. Features include push notifications. Registration of coach, player or parents. Coach can create a team while players can join the team created by the coach. Parents has the ability to follow the team. The idea is every coach can handle its team and every team there's a feed like facebook where all the followers or coach can see what's happening the team. Coach can also create an event that notifies all the playeres and followers about it using Parse cloud code integration of Customer.io and OneSignal. We also implement Mixpanel and Firebase for user tracking. ",
+          "role": "Lead Developer",
+          "startDate": "Dec 2015",
+          "endDate": "Present",
+          "technologies": "Swift 2.x, 3.x, Parse, Parse Cloud Code, Firebase, Mixpanel, OneSignal, Customer.io, MVVM, RxSwift"
+        },
+        {
+          "name": "Haikuism iOS",
+          "description": "Social media app for users that love to compose haikus. App feature includes business rule to create haiku, creating of collections, exchanging of haikus to mutual followers and initiating a haiku from other user's haiku. Using firebase, the app works with real time database.  ",
+          "role": "Lead Developer",
+          "startDate": "2016",
+          "endDate": "Present",
+          "technologies": "Firebase, Swift 3.x"
+        },
+        {
+          "name": "Kenzai iOS",
+          "description": "Fitness app for iOS. Job includes the implementation of dashboard and dynamic UI for different type of user's",
+          "startDate": "June 2016",
+          "endDate": "November 2016",
+          "technologies": "Swift 3.x"
+        },
+        {
+          "name": "Coca-Cola Shopmate iOS",
+          "description": "Reward app for consumers using iOS devices (iPhone and iPad).",
+          "role": "Lead Developer",
+          "startDate": "2016",
+          "endDate": "Present",
+          "technologies": "Objective-C, PubNub, CoreData"
+        },
+        {
+          "name": "Zukii gamification iOS",
+          "description": "Helped develop the feature that uses AR technology for photobomb using Vuforia and Swift 3.0. Feature also includes animation, particles and custom UI's. The project is compiled to use and install via cocoapods.",
+          "role": "Lead Developer",
+          "startDate": "2016",
+          "endDate": "Present",
+          "technologies": "Swift, Vuforia, Cocoapods"
+        },
+        {
+          "name": "PowerTeam Parse Cloud Code",
+          "description": "Improved powerteam app by separating the API from the client side by moving all the API calls to Cloud code using NodeJS. Using Parse Heroku, we deploy the code to the repository and it also communicates with Parse dashboard and Customer.io to send notification to user's.",
+          "role": "Lead Developer",
+          "startDate": "2016",
+          "endDate": "Present",
+          "technologies": "NodeJS, Parse Cloud Code, heroku"
+        }
+      ]
+    },
+    {
+      "company": "The Coapperative",
+      "position": "Lead iOS Developer",
+      "startDate": "December 2014",
+      "endDate": "December 2015",
+      "summary": "Developed mobile applications using Objective-C and Swift 2.x. Handled multiple projects at the same time as I am the only iOS developer since the company started. Maintains and improve iOS codebase from clients around the world.",
+      "highlights": ["Native iOS app development", "Swift", "ReactNative", "CouchDB MBaas", "Cocoapods", "Third party libraries for Native app development", "Trello", "Jira"],
+      "projects": [
+        {
+          "name": "Kupon2Go",
+          "description": "Voucher reward application for Croatia. Includes implementation of geolocations, REST API client implementations. Used of native components for business applications. The app features include location based reward system, Barcode, QRCode and Pincode redeeming mechanisms.",
+          "role": "Main Developer",
+          "startDate": "",
+          "endDate": "",
+          "technologies": "Swift, ObjectiveC, REST API, JSON, Serialization, Memory optimization, ARC, Realm Database, MVVM, RxSwift, Alamofire."
+        },
+        {
+          "name": "Jet2 Flight",
+          "description": "Maintains and improved the app Jet2. Work includes improvement of the calendar feature. Issues like bugs on using credit card, UI improvements etc.",
+          "role": "Main Developer",
+          "startDate": "",
+          "endDate": "",
+          "technologies": "Swift, ObjectiveC, REST API, JSON, Serialization, Memory optimization, ARC, Realm Database, MVVM, RxSwift, Alamofire."
+        } ,
+        {
+          "name": "ReadyTask iOS",
+          "description": "Developed the app from scratch using Swift. Feature includes the use of voice recording, image and text uploading. Also implements Mbaas couchdb to hold the values from the app. Saving of the data to share with other users. Animations and custom UI",
+          "role": "Main Developer",
+          "startDate": "",
+          "endDate": "",
+          "technologies": "Swift, ObjectiveC, CouchDB, JSON, Serialization, Memory optimization, ARC, Realm Database, MVVM, RxSwift, Alamofire."
+        } ,
+        {
+          "name": "ARC (Act of Random Kindness)",
+          "description": "Developed the app from scratch using ReactNative (JS). Feature includes uploading of images, text like social media for Android and iOS",
+          "role": "Main Developer",
+          "startDate": "",
+          "endDate": "",
+          "technologies": "Javascript, JSON, Serialization, Memory optimization, ARC, Realm Database, MVVM, Alamofire."
+        } 
+      ]
+    },
+    {
+      "company": "The Studio of Secret 6, Inc.",
+      "position": "iOS Game Developer",
+      "startDate": "December 2012",
+      "endDate": "December 2014",
+      "summary": "Developed mobile games using Cocos2d, Unity3d, Cocos2d-x. Maintains and improved existing games from different clients around the world.",
+      "highlights": ["Unity3D", "Cocos2d", "Objective-C", "JSON", "SQLite", "MongoDB", "Memory optimization", "MVC", "Singleton", "Factory", "Abstract", "Unity Plugins"],
+      "projects": [
+        {
+          "name": "Ravenwood Fair iOS",
+          "description": "Helped developing the game from scratch using Cocos2d (objective-c). Works include the placing of object on tiles like on SIMS and object rotation. Implement game quests and dynamic approach to quests. Adding and removing of objects etc.",
+          "role": "Main Developer",
+          "startDate": "",
+          "endDate": "",
+          "technologies": "Cocos2d, ObjectiveC, SQLite, JSON, XML, Serialization, Memory optimization, Garbage collection."
+        },
+        {
+          "name": "Dropple iOS",
+          "description": "Helped improving the game by optimizing the memory to reduce crashes, fixing bugs and shipping it to the appstore.",
+          "role": "Main Developer",
+          "startDate": "",
+          "endDate": "",
+          "technologies": "Cocos2d, ObjectiveC, JSON, XML, Serialization, Memory optimization, Garbage collection."
+        },
+        {
+          "name": "Red Rover",
+          "description": "Musical timing game. Helped developed the AI for single player. And also multiplayer implementations.",
+          "role": "Main Developer",
+          "startDate": "",
+          "endDate": "",
+          "technologies": "Cocos2d, ObjectiveC, JSON, XML, Serialization, Memory optimization, Garbage collection, AI, finite statemachines, Multiplayer."
+        },
+        {
+          "name": "Card Battler",
+          "description": "Card game with combination of 3D animations and 2D card selections using Unity3D (C#). Implemented the logic behind the game and particle animations during battle phase. Works includes saving using serialization and statemachines to improve user experience.",
+          "startDate": "",
+          "endDate": "",
+          "technologies": "Unity3d, C#, JSON, XML, Serialization, Memory optimization, AI, finite statemachines."
+        } 
+      ]
+    },
+    {
+      "company": "TADA Asianic Inc.",
+      "position": "Flash Game Developer",
+      "startDate": "April 2011",
+      "endDate": "Dec 2013",
+      "summary": "Developed casino games using Adobe flash (Actionscript 2.x). Handled the team working on SlotMachines with complicated features similar to the real casino games with remote configuration from the remote server. Also helped the team working on BlackJack, Baccarat etc.",
+      "highlights": [
+        "TortoiseSVN",
+        "Actionscript",
+        "MySQLite",
+        "XML",
+        "JSON"
+      ],
+      "projects": [
+        {
+          "name": "Flash Slotmachine",
+          "description": "Casino slotmachine with configurable settings for number of lines, bets and with remote configuration from the server. Implemented reel animations, bonus stages and dynamic images for different type of slotmachines. All the projects are using the virtual money to play.",
+          "role": "Main Developer",
+          "startDate": "",
+          "endDate": "",
+          "technologies": "Actionscript 2.0, MySQLite, JSON, XML."
+        },
+        {
+          "name": "Baccarat",
+          "description": "Helped the main programmer to develop the baccarat game. Job includes the logic, UI and animations",
+          "startDate": "",
+          "endDate": "",
+          "technologies": "Actionscript 2.0, MySQLite, JSON, XML."
+        },
+        {
+          "name": "BlackJack",
+          "description": "Helped the main programmer to develop the blackjack game. Job includes the logic, backend configuration handling , UI and animations",
+          "startDate": "",
+          "endDate": "",
+          "technologies": "Actionscript 2.0, MySQLite, JSON, XML."
+        }
+      ]
+    },
+    {
+      "company": "NGC Inc.",
+      "position": "C Programmer",
+      "startDate": "Apr 2010",
+      "endDate": "April 2011",
+      "summary": "Developed mobile application for handheld devices for wireless billing system used for gathering water and electric data using C IDE.",
+      "highlights": [],
+      "projects": []
+    }
+  ],
+  "certification": []
+}
