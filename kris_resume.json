@@ -224,7 +224,7 @@
         {
           "name": "Coca-Cola Shopmate iOS",
           "description": "Reward app for consumers using iOS devices (iPhone and iPad).",
-          "role": "Lead Developer",
+          "role": "Support Developer",
           "startDate": "2016",
           "endDate": "Present",
           "technologies": "Objective-C, PubNub, CoreData, AppsFlyer, GoogleAnalytics"
