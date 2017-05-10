@@ -25,12 +25,12 @@
         },
         {
           "name": "Swift 2.x, 3.x",
-          "number_of_years": 2
+          "number_of_years": 2.5
         },
         {
           "name": "C#",
           "number_of_years": 3
-        }, 
+        },
         {
           "name": "ActionScript 2.x, 3.x",
           "number_of_years": "2"
@@ -51,6 +51,14 @@
         {
           "name": "Vuforia AR",
           "number_of_years": 1
+        },
+        {
+          "name": "iBeacon",
+          "number_of_years": 2
+        },
+        {
+          "name": "BLE technologies",
+          "number_of_years": 1
         }
       ]
     },
@@ -68,11 +76,11 @@
         {
           "name": "Core Animation",
           "number_of_years": 3
-        }, 
+        },
         {
           "name": "A/V foundation",
           "number_of_years": 3
-        }, 
+        },
         {
           "name": "Alamofire",
           "number_of_years": 3
@@ -119,11 +127,11 @@
           "number_of_years": 4
         },
         {
-          "name": "Realm",
+          "name": "RealmDB",
           "number_of_years": 3
         }
       ]
-    }, 
+    },
 	{
       "category": "Version Control",
       "technologies": [
@@ -156,7 +164,7 @@
         {
           "name": "Amazon Web Services",
           "number_of_years": 1
-        } 
+        }
       ]
     },
     {
@@ -196,7 +204,7 @@
           "role": "Lead Developer",
           "startDate": "Dec 2015",
           "endDate": "Present",
-          "technologies": "Swift 2.x, 3.x, Parse, Parse Cloud Code, Firebase, Mixpanel, OneSignal, Customer.io, MVVM, RxSwift"
+          "technologies": "Swift 2.x, 3.x, Parse, Parse Cloud Code, Firebase, Mixpanel, OneSignal, Customer.io, MVVM, RxSwift, Twilio, Sendgrid"
         },
         {
           "name": "Haikuism iOS",
@@ -204,14 +212,14 @@
           "role": "Lead Developer",
           "startDate": "2016",
           "endDate": "Present",
-          "technologies": "Firebase, Swift 3.x"
+          "technologies": "Firebase, Swift 3.x, RxSwift, MVVM, Branch Deeplink"
         },
         {
           "name": "Kenzai iOS",
           "description": "Fitness app for iOS. Job includes the implementation of dashboard and dynamic UI for different type of user's",
           "startDate": "June 2016",
           "endDate": "November 2016",
-          "technologies": "Swift 3.x"
+          "technologies": "Swift 3.x, Intercom, Mixpanel"
         },
         {
           "name": "Coca-Cola Shopmate iOS",
@@ -219,7 +227,7 @@
           "role": "Lead Developer",
           "startDate": "2016",
           "endDate": "Present",
-          "technologies": "Objective-C, PubNub, CoreData"
+          "technologies": "Objective-C, PubNub, CoreData, AppsFlyer, GoogleAnalytics"
         },
         {
           "name": "Zukii gamification iOS",
@@ -278,7 +286,7 @@
           "startDate": "",
           "endDate": "",
           "technologies": "Javascript, JSON, Serialization, Memory optimization, ARC, Realm Database, MVVM, Alamofire."
-        } 
+        }
       ]
     },
     {
@@ -319,7 +327,7 @@
           "startDate": "",
           "endDate": "",
           "technologies": "Unity3d, C#, JSON, XML, Serialization, Memory optimization, AI, finite statemachines."
-        } 
+        }
       ]
     },
     {
