@@ -42,14 +42,14 @@
       "technologies": [
         {
           "name": "Unity3D",
-          "number_of_years": 4
+          "number_of_years": 3
         },
         {
           "name": "Cocos2d",
           "number_of_years": 3
         },
         {
-          "name": "Vuforia AR",
+          "name": "Augmented Reality",
           "number_of_years": 1
         },
         {
@@ -71,20 +71,8 @@
         },
         {
           "name": "RxSwift",
-          "number_of_years": 1
-        },
-        {
-          "name": "Core Animation",
-          "number_of_years": 3
-        },
-        {
-          "name": "A/V foundation",
-          "number_of_years": 3
-        },
-        {
-          "name": "Alamofire",
-          "number_of_years": 3
-        },
+          "number_of_years": 2
+        }
         {
           "name": "Cocos2D",
           "number_of_years": 3
@@ -92,19 +80,11 @@
         {
           "name": "ReactNative",
           "number_of_years": 1
-        },
-        {
-          "name": "Facebook SDK",
-          "number_of_years": 4
-        },
-        {
-          "name": "Google SDK",
-          "number_of_years": 3
         }
       ]
     },
     {
-      "category": "Databases",
+      "category": "Database",
       "technologies": [
         {
           "name": "Core Data",
@@ -116,7 +96,7 @@
         },
         {
           "name": "Parse",
-          "number_of_years": 1.5
+          "number_of_years": 2
         },
         {
           "name": "CouchDB",
