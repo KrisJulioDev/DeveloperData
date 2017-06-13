@@ -41,10 +41,6 @@
       "category": "Technologies",
       "technologies": [
         {
-          "name": "Unity3D",
-          "number_of_years": 3
-        },
-        {
           "name": "Cocos2d",
           "number_of_years": 3
         },
