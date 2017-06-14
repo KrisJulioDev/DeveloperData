@@ -24,7 +24,57 @@
           "number_of_years": 6
         },
         {
+<<<<<<< HEAD
           "name": "Swift",
+=======
+          "name": "Swift 2.x, 3.x",
+          "number_of_years": 2.5
+        },
+        {
+          "name": "C#",
+          "number_of_years": 3
+        },
+        {
+          "name": "ActionScript 2.x, 3.x",
+          "number_of_years": "2"
+        }
+      ]
+    },
+    {
+      "category": "Technologies",
+      "technologies": [
+        {
+          "name": "Cocos2d",
+          "number_of_years": 3
+        },
+        {
+          "name": "Augmented Reality",
+          "number_of_years": 1
+        },
+        {
+          "name": "iBeacon",
+          "number_of_years": 2
+        },
+        {
+          "name": "BLE technologies",
+          "number_of_years": 1
+        }
+      ]
+    },
+    {
+      "category": "Development Frameworks",
+      "technologies": [
+        {
+          "name": "Cocos2D",
+          "number_of_years": 3
+        },
+        {
+          "name": "RxSwift",
+          "number_of_years": 2
+        },
+        {
+          "name": "Cocos2D",
+>>>>>>> 1033e5e25ce1afee82240b1a63ef14719952a952
           "number_of_years": 3
         },
         {
