@@ -91,17 +91,7 @@
           "endDate": "Present",
           "months":"(12 months)",
           "technologies": "NodeJS, Parse Cloud Code, heroku, Customer.io, OneSignal"
-        }
-      ]
-    },
-    {
-      "company": "The Coapperative",
-      "position": "Lead iOS Developer",
-      "startDate": "December 2014",
-      "endDate": "December 2015",
-      "summary": "Developed mobile applications using Objective-C and Swift 2.x. Handled multiple projects at the same time as I am the only iOS developer since the company started. Maintains and improve iOS codebase from clients around the world.",
-      "highlights": ["Native iOS app development", "Swift", "ReactNative", "CouchDB MBaas", "Cocoapods", "Third party libraries for Native app development", "Trello", "Jira"],
-      "projects": [
+        },
         {
           "name": "Kupon2Go",
           "description": "Voucher reward application for Croatia. Includes implementation of geolocations, REST API client implementations. Used of native components for business applications. The app features include location based reward system, Barcode, QRCode and Pincode redeeming mechanisms.",
@@ -137,17 +127,7 @@
           "endDate": "",
           "months":"(3 months)",
           "technologies": "Javascript, JSON, Serialization, Memory optimization, ARC, Realm Database, MVVM, Alamofire."
-        }
-      ]
-    },
-    {
-      "company": "The Studio of Secret 6, Inc.",
-      "position": "iOS Game Developer",
-      "startDate": "December 2012",
-      "endDate": "December 2014",
-      "summary": "Developed mobile games using Cocos2d, Unity3d, Cocos2d-x. Maintains and improved existing games from different clients around the world.",
-      "highlights": ["Unity3D", "Cocos2d", "Objective-C", "JSON", "SQLite", "MongoDB", "Memory optimization", "MVC", "Singleton", "Factory", "Abstract", "Unity Plugins"],
-      "projects": [
+        },
         {
           "name": "Ravenwood Fair iOS",
           "description": "Helped developing the game from scratch using Cocos2d (objective-c). Works include the placing of object on tiles like on SIMS and object rotation. Implement game quests and dynamic approach to quests. Adding and removing of objects etc.",
@@ -182,23 +162,7 @@
           "endDate": "",
           "months":"(6 months)",
           "technologies": "Unity3d, C#, JSON, XML, Serialization, Memory optimization, AI, finite statemachines."
-        }
-      ]
-    },
-    {
-      "company": "TADA Asianic Inc.",
-      "position": "Flash Game Developer",
-      "startDate": "April 2011",
-      "endDate": "Dec 2012",
-      "summary": "Developed casino games using Adobe flash (Actionscript 2.x). Handled the team working on SlotMachines with complicated features similar to the real casino games with remote configuration from the remote server. Also helped the team working on BlackJack, Baccarat etc.",
-      "highlights": [
-        "TortoiseSVN",
-        "Actionscript",
-        "MySQLite",
-        "XML",
-        "JSON"
-      ],
-      "projects": [
+        },
         {
           "name": "Flash Slotmachine",
           "description": "Casino slotmachine with configurable settings for number of lines, bets and with remote configuration from the server. Implemented reel animations, bonus stages and dynamic images for different type of slotmachines. All the projects are using the virtual money to play.",
