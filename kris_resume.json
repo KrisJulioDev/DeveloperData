@@ -17,155 +17,21 @@
   ],
   "skills": [
     {
-      "category": "Programming Languages",
+      "category": "Core Competencies",
       "technologies": [
         {
           "name": "Objective C",
-          "number_of_years": 5
+          "number_of_years": 6
         },
         {
-          "name": "Swift 2.x, 3.x",
-          "number_of_years": 2.5
-        },
-        {
-          "name": "C#",
+          "name": "Swift",
           "number_of_years": 3
         },
         {
-          "name": "ActionScript 2.x, 3.x",
-          "number_of_years": "2"
-        }
-      ]
-    },
-    {
-      "category": "Technologies",
-      "technologies": [
-        {
-          "name": "Unity3D",
-          "number_of_years": 3
-        },
-        {
-          "name": "Cocos2d",
-          "number_of_years": 3
-        },
-        {
-          "name": "Augmented Reality",
-          "number_of_years": 1
-        },
-        {
-          "name": "iBeacon",
+          "name": "Unit Testing",
           "number_of_years": 2
-        },
-        {
-          "name": "BLE technologies",
-          "number_of_years": 1
         }
-      ]
-    },
-    {
-      "category": "Development Frameworks",
-      "technologies": [
-        {
-          "name": "Cocos2D",
-          "number_of_years": 3
-        },
-        {
-          "name": "RxSwift",
-          "number_of_years": 2
-        },
-        {
-          "name": "Cocos2D",
-          "number_of_years": 3
-        },
-        {
-          "name": "ReactNative",
-          "number_of_years": 1
-        }
-      ]
-    },
-    {
-      "category": "Database",
-      "technologies": [
-        {
-          "name": "Core Data",
-          "number_of_years": 2
-        },
-        {
-          "name": "Firebase",
-          "number_of_years": 1
-        },
-        {
-          "name": "Parse",
-          "number_of_years": 2
-        },
-        {
-          "name": "CouchDB",
-          "number_of_years": 1
-        },
-        {
-          "name": "SQLite",
-          "number_of_years": 4
-        },
-        {
-          "name": "RealmDB",
-          "number_of_years": 3
-        }
-      ]
-    },
-	{
-      "category": "Version Control",
-      "technologies": [
-        {
-          "name": "Git",
-          "number_of_years": 4
-        },
-        {
-          "name": "Tortoise SVN",
-          "number_of_years": 1
-        }
-      ]
-    },
-    {
-      "category": "Operating System",
-      "technologies": [
-        {
-          "name": "MAC OSX",
-          "number_of_years": 4
-        },
-        {
-          "name": "Windows PC",
-          "number_of_years": 5
-        }
-      ]
-    },
-    {
-      "category": "Web Services",
-      "technologies": [
-        {
-          "name": "Amazon Web Services",
-          "number_of_years": 1
-        }
-      ]
-    },
-    {
-      "category": "Integrated Development Environment",
-      "technologies": [
-        {
-          "name": "Unity3D",
-          "number_of_years": 3
-        },
-        {
-          "name": "Xcode",
-          "number_of_years": 5
-        },
-        {
-          "name": "Adobe Flash",
-          "number_of_years": 2
-        },
-        {
-          "name": "Android Studio",
-          "number_of_years": 1
-        }
+
       ]
     }
   ],
@@ -184,6 +50,7 @@
           "role": "Lead Developer",
           "startDate": "Dec 2015",
           "endDate": "Present",
+          "months":"(19 months)",
           "technologies": "Swift 2.x, 3.x, Parse, Parse Cloud Code, Firebase, Mixpanel, OneSignal, Customer.io, MVVM, RxSwift, Twilio, Sendgrid"
         },
         {
@@ -192,6 +59,7 @@
           "role": "Lead Developer",
           "startDate": "2016",
           "endDate": "Present",
+          "months":"(7 months)",
           "technologies": "Firebase, Swift 3.x, RxSwift, MVVM, Branch Deeplink"
         },
         {
@@ -199,6 +67,7 @@
           "description": "Fitness app for iOS. Job includes the implementation of dashboard and dynamic UI for different type of user's",
           "startDate": "June 2016",
           "endDate": "November 2016",
+          "months":"(6 months)",
           "technologies": "Swift 3.x, Intercom, Mixpanel"
         },
         {
@@ -207,6 +76,7 @@
           "role": "Support Developer",
           "startDate": "2016",
           "endDate": "Present",
+          "months":"(12 months)",
           "technologies": "Objective-C, PubNub, CoreData, AppsFlyer, GoogleAnalytics"
         },
         {
@@ -215,6 +85,7 @@
           "role": "Lead Developer",
           "startDate": "2016",
           "endDate": "Present",
+          "months":"(3 months)",
           "technologies": "Swift, Vuforia, Cocoapods"
         },
         {
@@ -223,6 +94,7 @@
           "role": "Lead Developer",
           "startDate": "2016",
           "endDate": "Present",
+          "months":"(12 months)",
           "technologies": "NodeJS, Parse Cloud Code, heroku, Customer.io, OneSignal"
         }
       ]
@@ -241,6 +113,7 @@
           "role": "Main Developer",
           "startDate": "",
           "endDate": "",
+          "months":"(12 months)",
           "technologies": "Swift, ObjectiveC, REST API, JSON, Serialization, Memory optimization, ARC, Realm Database, MVVM, RxSwift, Alamofire."
         },
         {
@@ -249,6 +122,7 @@
           "role": "Main Developer",
           "startDate": "",
           "endDate": "",
+          "months":"(3 months)",
           "technologies": "Swift, ObjectiveC, REST API, JSON, Serialization, Memory optimization, ARC, Realm Database, MVVM, RxSwift, Alamofire."
         } ,
         {
@@ -257,6 +131,7 @@
           "role": "Main Developer",
           "startDate": "",
           "endDate": "",
+          "months":"(8 months)",
           "technologies": "Swift, ObjectiveC, CouchDB, JSON, Serialization, Memory optimization, ARC, Realm Database, MVVM, RxSwift, Alamofire."
         } ,
         {
@@ -265,6 +140,7 @@
           "role": "Main Developer",
           "startDate": "",
           "endDate": "",
+          "months":"(3 months)",
           "technologies": "Javascript, JSON, Serialization, Memory optimization, ARC, Realm Database, MVVM, Alamofire."
         }
       ]
@@ -283,6 +159,7 @@
           "role": "Main Developer",
           "startDate": "",
           "endDate": "",
+          "months":"(12 months)",
           "technologies": "Cocos2d, ObjectiveC, SQLite, JSON, XML, Serialization, Memory optimization, Garbage collection."
         },
         {
@@ -291,6 +168,7 @@
           "role": "Main Developer",
           "startDate": "",
           "endDate": "",
+          "months":"(6 months)",
           "technologies": "Cocos2d, ObjectiveC, JSON, XML, Serialization, Memory optimization, Garbage collection."
         },
         {
@@ -299,6 +177,7 @@
           "role": "Main Developer",
           "startDate": "",
           "endDate": "",
+          "months":"(4 months)",
           "technologies": "Cocos2d, ObjectiveC, JSON, XML, Serialization, Memory optimization, Garbage collection, AI, finite statemachines, Multiplayer."
         },
         {
@@ -306,6 +185,7 @@
           "description": "Card game with combination of 3D animations and 2D card selections using Unity3D (C#). Implemented the logic behind the game and particle animations during battle phase. Works includes saving using serialization and statemachines to improve user experience.",
           "startDate": "",
           "endDate": "",
+          "months":"(6 months)",
           "technologies": "Unity3d, C#, JSON, XML, Serialization, Memory optimization, AI, finite statemachines."
         }
       ]
@@ -330,6 +210,7 @@
           "role": "Main Developer",
           "startDate": "",
           "endDate": "",
+          "months":"(12 months)",
           "technologies": "Actionscript 2.0, MySQLite, JSON, XML."
         },
         {
@@ -337,6 +218,7 @@
           "description": "Helped the main programmer to develop the baccarat game. Job includes the logic, UI and animations",
           "startDate": "",
           "endDate": "",
+          "months":"(6 months)",
           "technologies": "Actionscript 2.0, MySQLite, JSON, XML."
         },
         {
@@ -344,6 +226,7 @@
           "description": "Helped the main programmer to develop the blackjack game. Job includes the logic, backend configuration handling , UI and animations",
           "startDate": "",
           "endDate": "",
+          "months":"(6 months)",
           "technologies": "Actionscript 2.0, MySQLite, JSON, XML."
         }
       ]
